@@ -1,0 +1,28 @@
+:root {
+    --pr-color: #048853;
+}
+
+.navbar {
+    z-index: 2;
+}
+.hero {
+    z-index: 1;
+}
+
+.lg-navbar {
+    height: 100px;
+    font-size: 20px;
+}
+
+body {
+    background-color: #ffffff !important;
+}
+
+#hero {
+    height: 100vh;
+    width: 100%;
+}
+
+.img-hero {
+    height: 91%;
+}
